@@ -1,6 +1,6 @@
 # 📊 Tax Operations Analytics Dashboard | Business Intelligence Project
 
-![Tax Operations Dashboard](05_PowerBI/dashboard%20img.png)
+![Tax Operations Dashboard](Dashboard.png)
 
 ---
 
@@ -25,9 +25,7 @@ This project builds an interactive Power BI dashboard that helps management moni
 - Microsoft Excel
 - Power Query
 - PostgreSQL
-- SQL
 - Power BI
-- Git & GitHub
 
 ---
 
