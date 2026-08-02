@@ -1,6 +1,6 @@
 # 📊 Tax Operations Analytics Dashboard | Business Intelligence Project
 
-![Dashboard](05_PowerBI/Dashboard.png)
+![Dashboard](dashboard img.png)
 
 ---
 
