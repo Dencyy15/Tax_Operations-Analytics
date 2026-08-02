@@ -1,8 +1,5 @@
 # 📊 Tax Operations Analytics Dashboard | Business Intelligence Project
 
-![Tax Operations Dashboard](dashboard%20img.png)
-
----
 
 ## 📌 Project Overview
 
@@ -11,6 +8,13 @@ This project simulates the operations of an Income Tax Return (ITR) consultancy 
 The objective is to demonstrate how Business Intelligence can improve operational efficiency and support data-driven decision-making.
 
 ---
+
+
+![Tax Operations Dashboard](dashboard%20img.png)
+
+---
+
+
 
 ## 🎯 Business Problem
 
